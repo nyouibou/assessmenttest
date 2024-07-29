@@ -1,14 +1,5 @@
 part of 'product_bloc.dart';
 
-// class ProductState {
-//   List<RespModel> clist;
-//   ProductState({required this.clist});
-// }
-
-// final class ProductInitial extends ProductState {
-//   ProductInitial({required super.clist});
-// }
-
 abstract class ProductState {}
 
 class ProductInitial extends ProductState {}
